@@ -18,7 +18,7 @@ Repositori ini berisi dokumentasi dan file konfigurasi untuk Project Based Learn
 ## Akses File Lingkungan GNS3
 Dikarenakan batasan ukuran file pada GitHub (file proyek dan *image* sistem operasi berukuran lebih dari 1.9 GB), maka file `.gns3project` beserta konfigurasi mesin virtual disimpan di Google Drive. 
 
-**Tautan Unduhan GNS3:** [Google Drive - Proyek Zabbix Kelompok 4](https://drive.google.com/drive/folders/1ObpODHjbXSI5ga0m7t3cz_pyRVc9lQPK)
+**Tautan Unduhan GNS3:** [Google Drive - Proyek Zabbix Kelompok 4]([https://drive.google.com/drive/folders/1ObpODHjbXSI5ga0m7t3cz_pyRVc9lQPK](https://drive.google.com/drive/folders/1MTL6OBLVvUENw33q-a4CJvKmM-0IU-jg?usp=sharing))
 
 ---
 
